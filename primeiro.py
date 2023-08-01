@@ -6,6 +6,7 @@ print('1 - Hello World!')
 #'n' com barra invertida "\n" pula uma linha.
 linguagem = input('\n2 - Qual á a linguagem de programação que você esta estudando?')
 print('A linguagem que você esta estudando é:', linguagem )
+
 #Os dados são guardados em varavéis, que cada mais é um pedacinho da memória que armazena esses dados.
 #Toda variável tem um nome único
 
